@@ -439,7 +439,7 @@ namespace HomeWork_Сalculator
             this.buttonMC.Size = new System.Drawing.Size(98, 44);
             this.buttonMC.TabIndex = 0;
             this.buttonMC.Text = "MC";
-            this.buttonMC.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.buttonMC.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.buttonMC.UseVisualStyleBackColor = true;
             // 
             // buttonMR
@@ -450,7 +450,7 @@ namespace HomeWork_Сalculator
             this.buttonMR.Size = new System.Drawing.Size(92, 44);
             this.buttonMR.TabIndex = 1;
             this.buttonMR.Text = "MR";
-            this.buttonMR.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.buttonMR.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.buttonMR.UseVisualStyleBackColor = true;
             // 
             // buttonMPlus
@@ -461,7 +461,7 @@ namespace HomeWork_Сalculator
             this.buttonMPlus.Size = new System.Drawing.Size(99, 44);
             this.buttonMPlus.TabIndex = 2;
             this.buttonMPlus.Text = "M+";
-            this.buttonMPlus.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.buttonMPlus.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.buttonMPlus.UseVisualStyleBackColor = true;
             // 
             // buttonMMInus
@@ -472,7 +472,7 @@ namespace HomeWork_Сalculator
             this.buttonMMInus.Size = new System.Drawing.Size(100, 44);
             this.buttonMMInus.TabIndex = 3;
             this.buttonMMInus.Text = "M-";
-            this.buttonMMInus.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.buttonMMInus.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.buttonMMInus.UseVisualStyleBackColor = true;
             // 
             // buttonMS
@@ -483,7 +483,7 @@ namespace HomeWork_Сalculator
             this.buttonMS.Size = new System.Drawing.Size(105, 44);
             this.buttonMS.TabIndex = 4;
             this.buttonMS.Text = "MS";
-            this.buttonMS.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.buttonMS.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.buttonMS.UseVisualStyleBackColor = true;
             // 
             // panelNumber
